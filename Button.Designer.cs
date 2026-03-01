@@ -1,6 +1,6 @@
 ﻿namespace Act_1._4___Wiki___Controls
 {
-    partial class Form1
+    partial class Button
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            button1 = new Button();
+            button1 = new System.Windows.Forms.Button();
             SuspendLayout();
             // 
             // button1
@@ -54,6 +54,6 @@
 
         #endregion
 
-        private Button button1;
+        private System.Windows.Forms.Button button1;
     }
 }

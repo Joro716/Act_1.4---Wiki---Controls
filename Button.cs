@@ -1,8 +1,8 @@
 namespace Act_1._4___Wiki___Controls
 {
-    public partial class Form1 : Form
+    public partial class Button : Form
     {
-        public Form1()
+        public Button()
         {
             InitializeComponent();
         }
