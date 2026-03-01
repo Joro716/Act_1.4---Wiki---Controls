@@ -9,6 +9,7 @@ namespace Act_1._4___Wiki___Controls
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //Al fer click al boto obre una finestra que posa Hola
             MessageBox.Show("Hola");
         }
     }
